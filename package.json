@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"displayName": "Orbital Camera Package",
 	"description": "A simple orbital camera",
-	"unity": "2021.3.4f1",
+	"unity": "2021.3",
 	"author": {
 		"name": "William Reutmer",
 		"email": "william.reutmer@gmail.com",
